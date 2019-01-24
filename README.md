@@ -23,3 +23,7 @@ To cite this book, please use this bibtex entry:
  address = {Upper Saddle River, NJ, USA},
 } 
 ```
+
+
+
+https://web.stanford.edu/~jurafsky/slp3/
